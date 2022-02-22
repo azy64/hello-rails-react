@@ -6,7 +6,7 @@ application up and running.
 > The Backend of a React & Ruby on Rails setup.
 ---
 Things you may want to cover:
-## React Frontend [Link](https://github.com/MrBrN197/hello-rails-frontend/tree/dev)
+## React Frontend [Link](https://github.com/azy64/hello-rails-react.git)
 
 * Ruby version
 ## Built With
@@ -14,6 +14,7 @@ Things you may want to cover:
 * System dependencies
 - Ruby
 - Ruby on Rails
+- React-Rails
 - RSpec
 - CapyBara
 
@@ -25,7 +26,7 @@ To get a local copy up and running follow these simple example steps.
 
 * Database initialization
 ```
-git clone git@github.com:MrBrN197/RailsReact.git
+git clone https://github.com/azy64/hello-rails-react.git
 ```
 
 * How to run the test suite
@@ -49,11 +50,10 @@ to start the server run `./bin/dev`
 to test simply run `rspec spec`
 
 
-👤 **Brian Orora**
+👤 **Azaria SAIDI**
 
-- GitHub: [@MrBrN197](https://github.com/MrBrN197)
-- Twitter: [@MrBrN197](https://twitter.com/MrBrN197)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/orora-brian/)
+- GitHub: [@azy64](https://github.com/azy64)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/azaria-saidi-524780112/)
 
 ## 🤝 Contributing
 
