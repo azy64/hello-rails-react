@@ -4,6 +4,6 @@ class Message < ApplicationRecord
     return 'no-messages-available' unless all_messages.size.positive?
 
     rand_idx = rand 0...all_messages.size
-    all_messages[rand_idx].desc
+    all_messages[rand_idx]
   end
 end
